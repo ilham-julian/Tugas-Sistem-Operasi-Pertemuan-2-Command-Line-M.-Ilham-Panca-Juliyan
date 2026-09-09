@@ -1,0 +1,52 @@
+pwd
+ls
+whoami
+id
+w
+date
+uptime
+hostname
+uname
+alias
+tty
+arch
+echo Hello World!
+printf Hello
+free
+df
+lsblk
+lsusb
+locale
+localectl
+loginctl
+fastfetch
+dmesg
+fortune
+cat Downloads/HelloWorld.py
+head Downloads/HelloWorld.py
+tail Downloads/HelloWorld.py
+grep "Hello" Downloads/HelloWorld.py
+figlet
+lolcat
+cowsay Hello World!
+tree
+ps
+du Downloads/HelloWorld.py
+find Downloads/HelloWorld.py
+dir
+ip
+type ls
+file Downloads/HelloWorld.py
+whatis ls
+cp Downloads/HelloWorld.py Documents/
+mv Downloads/HelloWorld.py Downloads/Python.py
+top
+cmatrix
+tty-clock
+ping google.com
+sudo apt install duf
+duf
+ansiweather
+nano
+
+
